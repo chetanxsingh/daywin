@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "855334384358",
+    "project_id": "daywin-69b01",
+    "storage_bucket": "daywin-69b01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855334384358:android:200339c3d8dea08f9b0127",
+        "android_client_info": {
+          "package_name": "com.example.daywin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855334384358-gihq1qotffhird08pfv9rmaovaopkp7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzUiXmvAG7nmk2PvXg7IMXVs6DP5VQW4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855334384358-gihq1qotffhird08pfv9rmaovaopkp7k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
